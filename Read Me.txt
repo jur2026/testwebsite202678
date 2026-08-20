@@ -1,0 +1,10 @@
+Hello there,
+
+Thanks for downloading this template.
+I have tried my best to provide you a better interface. You have to visit the *Config.js* file and put your Server name Ip etc there.
+You might need to Manually put the Links and images etc in HTML files so please visit each file and check that.
+
+If you have any questions please contact me at http://justhaider.site or Message me on Discord My username : _justhaider
+
+
+Thanks for choosing this template. ❤
